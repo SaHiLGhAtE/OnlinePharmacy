@@ -1,0 +1,5 @@
+D:\MCA Project\OnlineMedicine\OnlineMedicine\OnlineMedicine\bin\OnlineMedicine.dll
+D:\MCA Project\OnlineMedicine\OnlineMedicine\OnlineMedicine\bin\OnlineMedicine.pdb
+D:\MCA Project\OnlineMedicine\OnlineMedicine\OnlineMedicine\obj\Debug\OnlineMedicine.csprojResolveAssemblyReference.cache
+D:\MCA Project\OnlineMedicine\OnlineMedicine\OnlineMedicine\obj\Debug\OnlineMedicine.dll
+D:\MCA Project\OnlineMedicine\OnlineMedicine\OnlineMedicine\obj\Debug\OnlineMedicine.pdb
